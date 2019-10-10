@@ -19,4 +19,4 @@ For a full list of available commands offered by the module, from a PS Command l
 
 	
 ## Disclaimer ##
-Other, more established module libraries for interracting with GitHub are most likely out there. This one just served a purpose for me and if it's any use for anyone else, you're more than welcom to use it :-)
+Other, more established module libraries for interracting with GitHub are most likely out there. This one just served a purpose for me and if it's any use for anyone else, you're more than welcome to use it :-)
