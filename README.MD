@@ -3,7 +3,7 @@
 This repo contains a Powershell Module to assisit in interacting with the GitHub API.
 
 ## The problem ##
-I needed to be able to quickly create a git hub repo and other github users as a collaborator. Manually, this was an interruption to my workflow.
+I needed to be able to quickly create a GitHub repo and other GitHub users as a collaborator. Manually, this was an interruption to my workflow.
 I also wanted the opportunity to learn more about the GitHub Api : https://developer.github.com/v3/ and brush up on my powershell :-)
 	
 ## GitModule.psm1 ##
@@ -18,4 +18,5 @@ For a full list of available commands offered by the module, from a PS Command l
 > Get-Command -Module GitModule
 
 	
-
+## Disclaimer ##
+Other, more established module libraries for interracting with GitHub are most likely out there. This one just served a purpose for me and if it's any use for anyone else, you're more than welcom to use it :-)
