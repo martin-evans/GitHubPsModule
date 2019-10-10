@@ -7,7 +7,7 @@ I needed to be able to quickly create a GitHub repo and other GitHub users as a 
 I also wanted the opportunity to learn more about the GitHub Api : https://developer.github.com/v3/ and brush up on my powershell :-)
 	
 ## GitModule.psm1 ##
-This is a simple powershell module that may be referenced and invoked when needed to  create and delete personal repositories. For wexisting repositories, you'll be able to add collaborators.
+This is a simple powershell module that may be referenced and invoked when needed to  create and delete personal repositories. For existing repositories, you'll be able to add collaborators.
 	
 	
 When the Module is referenced, you'll be prompted to provide your username and a personal access token that you'll have to generate via your GitHub account at https://github.com/settings/tokens
