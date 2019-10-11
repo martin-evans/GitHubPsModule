@@ -147,7 +147,7 @@ function Add-Collaborator(){
 	foreach ($username in $gitHubUserNames)
 	{
 	
-		$url = "https://api.github.com/repos/$accountName/$repoName/collaborators/$gitHubName"
+		$url = "https://api.github.com/repos/$accountName/$repoName/collaborators/$username"
 	
 		write-host "Adding $username as collaborator to repo $repoName"	
 	
